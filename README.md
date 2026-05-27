@@ -62,3 +62,11 @@ Les graphiques réalisés permettent d’illustrer les analyses principales du p
 📌 Conclusion :
 
 Ce projet met en évidence les inégalités mondiales en matière de sécurité alimentaire et permet de mieux comprendre les enjeux liés à la distribution des ressources alimentaires dans le monde.
+
+---
+
+## 📷 Aperçu des graphiques
+
+![Pays en état de sous-nutrition](images/Graph1.png)
+![Pays avec forte disponibilité alimentaire](images/Graph2.png)
+![Pays avec faible disponibilité alimentaire](images/Graph3.png)
