@@ -1,3 +1,5 @@
+[Version française en bas / French version below]
+
 <img width="20" src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ec-1f1e7.svg" />
 
 # 🌍 World Food Security Analysis
