@@ -100,8 +100,9 @@ List of the 10 countries with the lowest food availability per capita :
 
 ![Countries with low food availability](images/Graph3.png)
 
----
+> This repository presents a portfolio version of the project. Some implementation details and calculations are intentionally not included.
 
+---
 <img width="20" src="https://github.com/user-attachments/assets/72fd52aa-5166-461c-8ef6-f51a74c0374a" />
 
 # 🌍 World Food Security Analysis
@@ -189,3 +190,5 @@ Ce projet met en évidence les inégalités mondiales en matière de sécurité 
 ![Pays en état de sous-nutrition](images/Graph1.png)
 ![Pays avec forte disponibilité alimentaire](images/Graph2.png)
 ![Pays avec faible disponibilité alimentaire](images/Graph3.png)
+
+> Ce dépôt présente une version portfolio du projet. Certains détails d'implémentation et calculs ne sont volontairement pas inclus.
